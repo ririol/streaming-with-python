@@ -1,0 +1,7 @@
+darkdetect==0.8.0
+PyAudio==0.2.13
+PyAutoGUI==0.9.53
+PyGetWindow==0.0.9
+pynput==1.7.6
+pywin32==305
+typing_extensions==4.6.3

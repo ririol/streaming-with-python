@@ -1,0 +1,1 @@
+pyinstaller --noconfirm --onedir --windowed --add-data "C:/Users/<username>/AppData/Local/Programs/Python/Python311/Lib/site-packages/customtkinter;customtkinter/" "C:/Users/<username>/Desktop/stream/app.py" --distpath "stream-build"
